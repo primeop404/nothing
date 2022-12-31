@@ -2,7 +2,7 @@ const dbd = require('dbd.js');
 const token = process.env['TOKEN']
 const keep_alive = require('./keep_alive.js');
 const bot = new dbd.Bot({
-	token: `OTUwMzEzMDIyMzczNjUwNDgy.G9kkWf.km4jSlhRZtykhG0bE0qOP_o1Zuc15BmSSqWLAg`,
+	token: `OTUwMzEzMDIyMzczNjUwNDgy.GqLCa3.UdmCPoKQFySdX3uO9hXndlk9na8SGilC3-trA8`,
 	prefix: 'h!'
 });
 
